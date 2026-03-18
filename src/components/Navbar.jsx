@@ -39,7 +39,7 @@ const Navbar = () => {
 
                     <div className="social-links">
                         <a href="https://github.com/Amanda-Hansini" target="_blank" className="social-icon"><Github size={20} /></a>
-                        <a href="#" className="social-icon"><Linkedin size={20} /></a>
+                        <a href="https://www.linkedin.com/in/amanda-hansini-75b013360" target="_blank" className="social-icon"><Linkedin size={20} /></a>
                         <a href="#" className="social-icon"><Twitter size={20} /></a>
                     </div>
                 </div>
