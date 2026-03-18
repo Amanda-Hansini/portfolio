@@ -16,7 +16,7 @@ const Hero = () => {
 
                     <h1 className="hero-title animate-fade-in" style={{ fontSize: 'clamp(3rem, 8vw, 5rem)', marginBottom: '1.5rem', animationDelay: '0.2s', lineHeight: '1.1' }}>
                         Hello! I Am <br />
-                        <span className="text-gradient">John Doe</span> {/* Placeholder */}
+                        <span className="text-gradient">Amanda Hansini</span>
                     </h1>
 
                     <h2 className="hero-subtitle animate-fade-in text-gradient-accent" style={{ fontSize: 'clamp(1.5rem, 4vw, 2.5rem)', marginBottom: '1.5rem', animationDelay: '0.3s' }}>

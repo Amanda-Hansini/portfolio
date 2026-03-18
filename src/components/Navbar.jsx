@@ -24,7 +24,7 @@ const Navbar = () => {
         <nav className={`navbar ${isScrolled ? 'scrolled glass-panel' : ''}`}>
             <div className="container nav-container flex-between">
                 <a href="#home" className="logo font-display">
-                    Ibrahim Memon
+                    Amanda Hansini
                 </a>
 
                 {/* Desktop Nav */}
@@ -38,7 +38,7 @@ const Navbar = () => {
                     </ul>
 
                     <div className="social-links">
-                        <a href="#" className="social-icon"><Github size={20} /></a>
+                        <a href="https://github.com/Amanda-Hansini" target="_blank" className="social-icon"><Github size={20} /></a>
                         <a href="#" className="social-icon"><Linkedin size={20} /></a>
                         <a href="#" className="social-icon"><Twitter size={20} /></a>
                     </div>

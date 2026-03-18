@@ -49,12 +49,12 @@ const Contact = () => {
                 <footer style={{ marginTop: 'auto', padding: '3rem 0 2rem', width: '100%', borderTop: '1px solid var(--border-color)' }}>
                     <div className="flex-between" style={{ flexWrap: 'wrap', gap: '1rem' }}>
                         <p style={{ color: 'var(--text-tertiary)', fontSize: '0.875rem' }}>
-                            &copy; {new Date().getFullYear()} John Doe. All rights reserved.
+                            &copy; {new Date().getFullYear()} Amanda Hansini. All rights reserved.
                         </p>
                         <div style={{ display: 'flex', gap: '1.5rem' }}>
                             <a href="#" style={{ color: 'var(--text-tertiary)', fontSize: '0.875rem' }}>Twitter</a>
                             <a href="#" style={{ color: 'var(--text-tertiary)', fontSize: '0.875rem' }}>LinkedIn</a>
-                            <a href="#" style={{ color: 'var(--text-tertiary)', fontSize: '0.875rem' }}>GitHub</a>
+                            <a href="https://github.com/Amanda-Hansini" target="_blank" style={{ color: 'var(--text-tertiary)', fontSize: '0.875rem' }}>GitHub</a>
                         </div>
                     </div>
                 </footer>
