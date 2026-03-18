@@ -39,9 +39,9 @@ const Contact = () => {
                             I'm currently looking to join a cross-functional team that values improving people's lives through accessible design, or have a project in mind? Let's connect.
                         </p>
 
-                        <a href="mailto:hello@example.com" className="btn btn-primary" style={{ fontSize: '1.125rem', padding: '1rem 2.5rem', borderRadius: '30px' }}>
+                        <a href="mailto:hansiniamanda7@gmail.com" className="btn btn-primary" style={{ fontSize: '1.125rem', padding: '1rem 2.5rem', borderRadius: '30px' }}>
                             <Mail size={20} />
-                            hello@example.com
+                            hansiniamanda7@gmail.com
                         </a>
                     </div>
                 </div>
