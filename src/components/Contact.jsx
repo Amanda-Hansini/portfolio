@@ -53,6 +53,7 @@ const Contact = () => {
                         </p>
                         <div style={{ display: 'flex', gap: '1.5rem' }}>
                             <a href="#" style={{ color: 'var(--text-tertiary)', fontSize: '0.875rem' }}>Twitter</a>
+                            <a href="mailto:hansiniamanda7@gmail.com" style={{ color: 'var(--text-tertiary)', fontSize: '0.875rem' }}>Email</a>
                             <a href="https://www.linkedin.com/in/amanda-hansini-75b013360" target="_blank" style={{ color: 'var(--text-tertiary)', fontSize: '0.875rem' }}>LinkedIn</a>
                             <a href="https://github.com/Amanda-Hansini" target="_blank" style={{ color: 'var(--text-tertiary)', fontSize: '0.875rem' }}>GitHub</a>
                         </div>
